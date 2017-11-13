@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+    background-image: url("./paris.png");
+    background-color: blue;
+}
+
+div {
+	background-color: yellow;
+}
+
+p {
+	color: green;
+	background-color: red;
+}
