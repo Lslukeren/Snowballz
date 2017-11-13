@@ -12,29 +12,31 @@ body {
 	margin: 0;
 }
 
-<<<<<<< HEAD
+
 div.main {
-=======
-.paragraph {
->>>>>>> e6930cf1fc58a03cc8d331296d94888f014f8327
 	background-color: dimgray;
 	width: 40%;
-	margin-top: 5%;
 	border-top-right-radius: 5%;
 	border-bottom-right-radius: 5%;
 	border-right-style: solid;
 	border-top-style: solid;
 	border-bottom-style: solid;
 	border-color: blue;
+	margin-top: 5%;
 }
 
-<<<<<<< HEAD
+.paragraph {
+	width: ;
+	margin-top: 5%;
+	border-top-right-radius: 5%;
+	border-bottom-right-radius: 5%;
+	margin-left: 2%;
+}
+
+
 nav {
-	margin-left: 3%;
+	margin-left: ;
 }
-=======
-
->>>>>>> e6930cf1fc58a03cc8d331296d94888f014f8327
 
 ul {
     padding: 0;
@@ -51,12 +53,21 @@ li {
 	display: inline;
 	width: 33%;
 	font-size: 2em;
+	color
 }
 
 a {
 	text-decoration: none;
+	color: blue;
 }
 
 p {
 	
 }
+
+#Babytech {
+	height: 15em;
+}
+
+
+
