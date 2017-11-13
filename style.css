@@ -5,12 +5,18 @@
 body {
     background-image: url("./rome.png");
     background-size: 103%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 	font-family: 'Arial', sans-serif;
 	text-decoration: none;
 	margin: 0;
 }
 
+<<<<<<< HEAD
 div.main {
+=======
+.paragraph {
+>>>>>>> e6930cf1fc58a03cc8d331296d94888f014f8327
 	background-color: dimgray;
 	width: 40%;
 	margin-top: 5%;
@@ -22,9 +28,13 @@ div.main {
 	border-color: blue;
 }
 
+<<<<<<< HEAD
 nav {
 	margin-left: 3%;
 }
+=======
+
+>>>>>>> e6930cf1fc58a03cc8d331296d94888f014f8327
 
 ul {
     padding: 0;
@@ -32,7 +42,7 @@ ul {
     display: flex;
     width: 100%;
     text-align: center;
-    background-color: blue;
+    background-color: #ccc;
     margin-top: 0;
     position: ;
 }
