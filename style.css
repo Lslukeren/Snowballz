@@ -10,14 +10,20 @@ body {
 	margin: 0;
 }
 
-div {
+div.main {
 	background-color: dimgray;
 	width: 40%;
 	margin-top: 5%;
 	border-top-right-radius: 5%;
 	border-bottom-right-radius: 5%;
-	border-style: solid;
+	border-right-style: solid;
+	border-top-style: solid;
+	border-bottom-style: solid;
 	border-color: blue;
+}
+
+nav {
+	margin-left: 3%;
 }
 
 ul {
