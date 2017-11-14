@@ -1,73 +1,42 @@
-* {
-	box-sizing: border-box;
-}
-
 body {
-    background-image: url("./rome.png");
-    background-size: 103%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-	font-family: 'Arial', sans-serif;
-	text-decoration: none;
-	margin: 0;
+    background-color: lightblue;
+	margin:0;
 }
 
+h1 {
+    color: navy;
+    text-align:center;
+}
+.navigation {
+    overflow: hidden;
+    background-color: Black;
+    position: fixed; 
+    top: 50px; 
+    width: 100%; 
+	text-align:center;
 
-div.main {
-	background-color: dimgray;
-	width: 40%;
-	border-top-right-radius: 5%;
-	border-bottom-right-radius: 5%;
-	border-right-style: solid;
-	border-top-style: solid;
-	border-bottom-style: solid;
-	border-color: blue;
-	margin-top: 5%;
 }
 
-.paragraph {
-	width: ;
-	margin-top: 5%;
-	border-top-right-radius: 5%;
-	border-bottom-right-radius: 5%;
-	margin-left: 2%;
-}
-
-
-nav {
-	margin-left: ;
-}
-
-ul {
-    padding: 0;
-    margin: 0;
-    display: flex;
-    width: 100%;
+.navigation a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
     text-align: center;
-    background-color: #ccc;
-    margin-top: 0;
-    position: ;
+    padding: 16px;
+    text-decoration: none;
+	width:31%;
 }
 
-li {
-	display: inline;
-	width: 33%;
-	font-size: 2em;
-	color
+.navigation a:hover {
+  background-color: #ddd;
+  color: black;
 }
 
-a {
-	text-decoration: none;
-	color: blue;
+.active {
+  background-color: #4CAF50;
+  color: white;
 }
 
-p {
-	
+.main {
+    margin-top: 70px; 
 }
-
-#Babytech {
-	height: 15em;
-}
-
-
-
