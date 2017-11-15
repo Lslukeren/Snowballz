@@ -3,17 +3,25 @@
 }
 
 body {
-    background-image: url("./rome.png");
-    background-size: 103%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-	font-family: 'Helvetica', sans-serif;
+	font-family: 'Gotham', 'Helvetica', sans-serif;
 	text-decoration: none;
 	margin: 0;
 }
 
+.about {
+	background-image: url("./rome.png");
+	background-size: 103%;
+}
 
-div.main {
+.home {
+	background-image: url("./paris.png");
+	background-size: 100%;
+}
+
+
+.main {
 	background-color: dimgray;
 	width: 40%;
 	border-top-right-radius: 5%;
@@ -21,8 +29,8 @@ div.main {
 	border-right-style: solid;
 	border-top-style: solid;
 	border-bottom-style: solid;
-	border-color: blue;
-	margin-top: 5%;
+	border-color: navy;
+	margin-top: 4%;
 }
 
 .paragraph {
@@ -31,11 +39,11 @@ div.main {
 	border-top-right-radius: 5%;
 	border-bottom-right-radius: 5%;
 	margin-left: 2%;
+	
 }
 
 
 nav {
-	margin-left: ;
 }
 
 ul {
@@ -44,31 +52,42 @@ ul {
     display: flex;
     width: 100%;
     text-align: center;
-    background-color: #ddd;
+    /*background-color: #ddd;*/
+    background-color: navy;
     margin-top: 0;
+    box-shadow: 0 0 10px 10px navy;
     position: ;
-
 }
 
 li {
 	display: inline;
 	width: 33%;
 	font-size: 2em;
-	color
+	margin: 0.3em 0.3em;
 }
 
 a {
 	text-decoration: none;
-	color: black;
-}
-
-p {
-
+	color: white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #Babytech {
 	height: 15em;
 }
+
+/*
+Kilder:
+
+https://www.pexels.com/photo/picture-of-eiffel-tower-338515/
+
+https://www.pexels.com/photo/group-of-people-walking-near-white-painted-cathedral-161974/
+*/
+
+
+
+
+
 
 
 
