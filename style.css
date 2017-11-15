@@ -7,7 +7,7 @@ body {
     background-size: 103%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-	font-family: 'Arial', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	text-decoration: none;
 	margin: 0;
 }
@@ -44,9 +44,10 @@ ul {
     display: flex;
     width: 100%;
     text-align: center;
-    background-color: #ccc;
+    background-color: #ddd;
     margin-top: 0;
     position: ;
+
 }
 
 li {
@@ -58,11 +59,11 @@ li {
 
 a {
 	text-decoration: none;
-	color: blue;
+	color: black;
 }
 
 p {
-	
+
 }
 
 #Babytech {
