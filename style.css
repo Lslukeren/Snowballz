@@ -12,10 +12,15 @@ body {
 
 .about {
 	background-image: url("./rome.png");
-	background-size: 103%;
+	background-size: 102%;
 }
 
 .home {
+	background-image: url("./paris.png");
+	background-size: 100%;
+}
+
+.countries {
 	background-image: url("./paris.png");
 	background-size: 100%;
 }
