@@ -42,8 +42,7 @@ body {
 	margin-top: 5%;
 	border-top-right-radius: 5%;
 	border-bottom-right-radius: 5%;
-	margin-left: 2%;
-	
+	margin-left: 2%;	
 }
 
 .menu_ul {
@@ -69,6 +68,30 @@ body {
 	text-decoration: none;
 	color: white;
 	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.country_div {
+	background-color: dimgray;
+	width: 40%;
+	border-top-right-radius: 5%;
+	border-bottom-right-radius: 5%;
+	border-right-style: solid;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-color: navy;
+	margin-top: 4%;
+}
+
+.country_ul {
+
+}
+
+.country_li {
+
+}
+
+.country_a {
+
 }
 
 #Babytech {
