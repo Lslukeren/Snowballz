@@ -11,17 +11,17 @@ body {
 }
 
 .about {
-	background-image: url("./rome.png");
+	background-image: url("Images/rome.png");
 	background-size: 102%;
 }
 
 .home {
-	background-image: url("./paris.png");
+	background-image: url("Images/paris.png");
 	background-size: 100%;
 }
 
 .countries {
-	background-image: url("./paris.png");
+	background-image: url("Images/paris.png");
 	background-size: 100%;
 }
 
@@ -104,6 +104,8 @@ Kilder:
 https://www.pexels.com/photo/picture-of-eiffel-tower-338515/
 
 https://www.pexels.com/photo/group-of-people-walking-near-white-painted-cathedral-161974/
+
+https://pixabay.com/no/oslo-norge-byen-moderne-skyskraper-957242/
 */
 
 
