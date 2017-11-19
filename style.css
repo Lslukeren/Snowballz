@@ -16,7 +16,7 @@ body {
 }
 
 .home {
-	background-image: url("Images/paris.png");
+	background-image: url("Images/oslo.png");
 	background-size: 100%;
 }
 
@@ -26,7 +26,7 @@ body {
 }
 
 .main {
-	background-color: dimgray;
+	background-color: rgb(173, 205, 218);
 	width: 40%;
 	border-top-right-radius: 5%;
 	border-bottom-right-radius: 5%;
@@ -38,7 +38,6 @@ body {
 }
 
 .paragraph {
-	width: ;
 	margin-top: 5%;
 	border-top-right-radius: 5%;
 	border-bottom-right-radius: 5%;
@@ -71,7 +70,8 @@ body {
 }
 
 .country_div {
-	background-color: dimgray;
+	/*background-color: #98C9D5;*/
+	background-color: rgb(173, 205, 218);
 	width: 40%;
 	border-top-right-radius: 5%;
 	border-bottom-right-radius: 5%;
