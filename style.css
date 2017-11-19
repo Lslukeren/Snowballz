@@ -70,7 +70,6 @@ body {
 }
 
 .country_div {
-	/*background-color: #98C9D5;*/
 	background-color: rgb(173, 205, 218);
 	width: 40%;
 	border-top-right-radius: 5%;
@@ -80,18 +79,6 @@ body {
 	border-bottom-style: solid;
 	border-color: navy;
 	margin-top: 10%;
-}
-
-.country_ul {
-
-}
-
-.country_li {
-
-}
-
-.country_a {
-
 }
 
 #Babytech {
