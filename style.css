@@ -37,6 +37,16 @@ body {
 	margin-top: 4%;
 }
 
+.country_content {
+	background-color: rgb(173, 205, 218);
+	width: 80%;
+	border-radius: 4em;
+	border-style: solid;
+	border-color: navy;
+	margin-top: 4%;
+	margin-left: 10%
+}
+
 .paragraph {
 	margin-top: 5%;
 	border-top-right-radius: 5%;
